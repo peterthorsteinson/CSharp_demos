@@ -1,0 +1,42 @@
+using System;
+
+public delegate void AlarmEventHandler(object sender, EventArgs e); //was AlarmEventArgs !!!
+
+class Foo
+{
+    AlarmEventHandler eventDelegate;
+
+    public event AlarmEventHandler Alarm;
+
+    public void TestIt()
+    {
+        Alarm.Invoke(this, new EventArgs());
+    }
+
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        Foo foo = new Foo();
+
+        foo.Alarm += new AlarmEventHandler(AlarmEventHandler1);
+        AnotherEventListener aeh2 = new AnotherEventListener();
+        foo.Alarm += new AlarmEventHandler(aeh2.AlarmEventHandler2);
+
+        foo.TestIt();
+    }
+
+    public static void AlarmEventHandler1(object sender, EventArgs e)
+    {
+        Console.WriteLine("AlarmEventHandler1: " + sender.ToString() + " " + e.ToString());
+    }
+}
+
+public class AnotherEventListener
+{
+    public void AlarmEventHandler2(object sender, EventArgs e)
+    {
+        Console.WriteLine("AlarmEventHandler2: " + sender.ToString() + " " + e.ToString() + "...");
+    }
+}

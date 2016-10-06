@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ThreadingCollisions\ThreadingCollisions\bin\Debug\ThreadingCollisions.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ThreadingCollisions\ThreadingCollisions\bin\Debug\ThreadingCollisions.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ThreadingCollisions\ThreadingCollisions\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ThreadingCollisions\ThreadingCollisions\obj\x86\Debug\ThreadingCollisions.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ThreadingCollisions\ThreadingCollisions\obj\x86\Debug\ThreadingCollisions.pdb

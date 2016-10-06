@@ -1,0 +1,5 @@
+bin\Debug\PInvoke.exe
+bin\Debug\PInvoke.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PInvoke.exe
+obj\Debug\PInvoke.pdb

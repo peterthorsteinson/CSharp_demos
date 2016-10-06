@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\bin\Debug\DynamicOfficeInterop.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\bin\Debug\DynamicOfficeInterop.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.pdb
+C:\Users\Administrator\Desktop\DynamicKeyword\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\DynamicKeyword\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.exe
+C:\Users\Administrator\Desktop\DynamicKeyword\DynamicOfficeInterop\DynamicOfficeInterop\obj\x86\Debug\DynamicOfficeInterop.pdb

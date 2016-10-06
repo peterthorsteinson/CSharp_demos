@@ -1,0 +1,10 @@
+server and client remoting configuration:
+
+http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dndotnet/html/remotingconfig.asp
+
+Note the url for the server object used in the client code:
+"tcp://localhost:8123/RemotingHost/RemoteObjectSingleton.rem"
+The server application name "RemotingHost" is inserted in this url. This is because of the application name set in the server config file <application name="RemotingHost">.
+
+
+

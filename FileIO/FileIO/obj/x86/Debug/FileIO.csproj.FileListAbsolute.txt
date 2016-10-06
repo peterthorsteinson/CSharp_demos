@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\New\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Administrator\Desktop\New\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Administrator\Desktop\New\FileIO\FileIO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New\FileIO\FileIO\obj\x86\Debug\FileIO.exe
+C:\Users\Administrator\Desktop\New\FileIO\FileIO\obj\x86\Debug\FileIO.pdb

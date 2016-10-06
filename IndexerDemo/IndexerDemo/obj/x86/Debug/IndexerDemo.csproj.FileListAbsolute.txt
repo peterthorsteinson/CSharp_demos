@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\IndexerDemo\IndexerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\IndexerDemo\IndexerDemo\obj\x86\Debug\IndexerDemo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\IndexerDemo\IndexerDemo\obj\x86\Debug\IndexerDemo.pdb
+C:\Users\Administrator\Desktop\IndexerDemo\IndexerDemo\obj\x86\Debug\IndexerDemo.exe
+C:\Users\Administrator\Desktop\IndexerDemo\IndexerDemo\obj\x86\Debug\IndexerDemo.pdb
+C:\Users\Administrator\Desktop\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.exe
+C:\Users\Administrator\Desktop\IndexerDemo\IndexerDemo\bin\Debug\IndexerDemo.pdb
+C:\Users\Administrator\Desktop\IndexerDemo\IndexerDemo\obj\x86\Debug\ResolveAssemblyReference.cache

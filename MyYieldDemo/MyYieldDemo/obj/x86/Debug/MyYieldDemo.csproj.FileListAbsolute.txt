@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MyYieldDemo\MyYieldDemo\bin\Debug\MyYieldDemo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MyYieldDemo\MyYieldDemo\bin\Debug\MyYieldDemo.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MyYieldDemo\MyYieldDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MyYieldDemo\MyYieldDemo\obj\x86\Debug\MyYieldDemo.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MyYieldDemo\MyYieldDemo\obj\x86\Debug\MyYieldDemo.pdb
+C:\Users\Administrator\Desktop\MyYieldDemo\MyYieldDemo\obj\x86\Debug\MyYieldDemo.exe
+C:\Users\Administrator\Desktop\MyYieldDemo\MyYieldDemo\obj\x86\Debug\MyYieldDemo.pdb

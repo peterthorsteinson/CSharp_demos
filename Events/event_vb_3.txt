@@ -1,0 +1,23 @@
+Imports System
+
+Public Delegate Sub TestDelegate(ByVal message As String)
+Public Class Foo
+    Dim testDelegate As TestDelegate
+    Public Sub RegisterCallBack(ByVal testDelegate As TestDelegate)
+        Me.testDelegate = testDelegate
+    End Sub
+    Public Sub TestIt()
+        testDelegate("hello back")
+    End Sub
+End Class
+
+Module Module1
+    Sub Main()
+        Dim foo As Foo = New Foo()
+        foo.RegisterCallBack(AddressOf TestDelegateMethod)
+        foo.TestIt()
+    End Sub
+    Public Sub TestDelegateMethod(ByVal message As String)
+        Console.WriteLine(message)
+    End Sub
+End Module

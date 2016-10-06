@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NamedArguments\NamedArguments\bin\Debug\NamedArguments.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NamedArguments\NamedArguments\bin\Debug\NamedArguments.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NamedArguments\NamedArguments\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NamedArguments\NamedArguments\obj\x86\Debug\NamedArguments.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NamedArguments\NamedArguments\obj\x86\Debug\NamedArguments.pdb
+C:\Users\Administrator\Desktop\NamedArguments\NamedArguments\obj\x86\Debug\NamedArguments.exe
+C:\Users\Administrator\Desktop\NamedArguments\NamedArguments\obj\x86\Debug\NamedArguments.pdb
+C:\Users\Administrator\Desktop\NamedArguments\NamedArguments\bin\Debug\NamedArguments.exe
+C:\Users\Administrator\Desktop\NamedArguments\NamedArguments\bin\Debug\NamedArguments.pdb
+C:\Users\Administrator\Desktop\NamedArguments\NamedArguments\obj\x86\Debug\ResolveAssemblyReference.cache

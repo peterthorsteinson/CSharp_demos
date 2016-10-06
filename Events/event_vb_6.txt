@@ -1,0 +1,31 @@
+Imports System
+
+Public Delegate Sub AlarmEventHandler(ByVal sender As Object, ByVal e As EventArgs) 'was AlarmEventArgs !!!
+Class Foo
+    Public Event Alarm As AlarmEventHandler
+    Public Sub TestIt()
+        RaiseEvent Alarm(Me, New EventArgs())
+    End Sub
+End Class
+Module Module1
+    Sub Main()
+        Dim foo As Foo = New Foo()
+        AddHandler foo.Alarm, AddressOf AlarmEventHandler1
+
+        Dim aeh2 As AnotherEventListener = New AnotherEventListener()
+        AddHandler foo.Alarm, AddressOf aeh2.AlarmEventHandler2
+
+        foo.TestIt()
+    End Sub
+    Public Sub AlarmEventHandler1(ByVal sender As Object, ByVal e As EventArgs)
+        Console.WriteLine("AlarmEventHandler1: " + sender.ToString() + " " + _
+            e.ToString())
+    End Sub
+End Module
+
+Public Class AnotherEventListener
+    Public Sub AlarmEventHandler2(ByVal sender As Object, ByVal e As EventArgs)
+        Console.WriteLine("AlarmEventHandler2: " + sender.ToString() + " " + _
+            e.ToString() + "...")
+    End Sub
+End Class

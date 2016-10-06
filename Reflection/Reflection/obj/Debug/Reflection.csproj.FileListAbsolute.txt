@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Administrator\Desktop\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Administrator\Desktop\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Administrator\Desktop\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Administrator\Desktop\Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LaceyDemos\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Admin\Desktop\LaceyDemos\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Admin\Desktop\LaceyDemos\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Admin\Desktop\LaceyDemos\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Admin\Desktop\LaceyDemos\Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+using System;
+
+public delegate void TestDelegate(string message);
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //call method the normal way
+        MyMethod("method called the normal way");
+
+        //call method via delegate
+        TestDelegate testDelegate = MyMethod;
+        testDelegate("method called via delegate");
+
+    }
+
+    public static void MyMethod(string message)
+    {
+        Console.WriteLine(message);
+    }
+}
+

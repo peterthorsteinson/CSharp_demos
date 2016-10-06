@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\RemotingHost.exe
+bin\Debug\RemotingHost.pdb
+obj\Debug\RemotingHost.exe
+obj\Debug\RemotingHost.pdb
+bin\Debug\RemoteObject.dll
+bin\Debug\RemoteObject.pdb
+bin\Debug\RemotingHost.config

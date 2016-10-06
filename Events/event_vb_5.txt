@@ -1,0 +1,29 @@
+Imports System
+
+Public Delegate Sub AlarmEventHandler(ByVal sender As Object, ByVal e As AlarmEventArgs)
+Class Foo
+    'Dim eventDelegate As AlarmEventHandler
+    Public Event Alarm As AlarmEventHandler '!!!!!!!
+    'Public Sub RegisterCallBack(ByVal eventDelegate As AlarmEventHandler)
+    '    Me.eventDelegate = eventDelegate
+    'End Sub
+    Public Sub TestIt()
+        'eventDelegate(Me, New AlarmEventArgs())
+        RaiseEvent Alarm(Me, New AlarmEventArgs()) '!!!!!!!
+    End Sub
+End Class
+Module Module1
+    Sub Main()
+        Dim foo As Foo = New Foo()
+        'foo.RegisterCallBack(AddressOf AlarmEventHandler)
+        AddHandler foo.Alarm, AddressOf AlarmEventHandler
+
+        foo.TestIt()
+    End Sub
+    Public Sub AlarmEventHandler(ByVal sender As Object, ByVal e As AlarmEventArgs)
+        Console.WriteLine(sender.ToString() + " " + e.ToString())
+    End Sub
+End Module
+Public Class AlarmEventArgs
+    Inherits EventArgs
+End Class

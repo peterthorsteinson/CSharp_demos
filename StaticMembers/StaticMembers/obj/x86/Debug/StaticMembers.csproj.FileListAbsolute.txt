@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe
+c:\users\administrator\documents\visual studio 2010\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\StaticMembers\StaticMembers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\StaticMembers\StaticMembers\obj\x86\Debug\StaticMembers.exe
+c:\users\administrator\documents\visual studio 2010\Projects\StaticMembers\StaticMembers\obj\x86\Debug\StaticMembers.pdb
+C:\Users\Administrator\Desktop\StaticMembers\StaticMembers\obj\x86\Debug\StaticMembers.exe
+C:\Users\Administrator\Desktop\StaticMembers\StaticMembers\obj\x86\Debug\StaticMembers.pdb

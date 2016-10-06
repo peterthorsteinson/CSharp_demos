@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ConversionOperators\ConversionOperators\bin\Debug\ConversionOperators.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ConversionOperators\ConversionOperators\bin\Debug\ConversionOperators.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConversionOperators\ConversionOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ConversionOperators\ConversionOperators\obj\x86\Debug\ConversionOperators.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ConversionOperators\ConversionOperators\obj\x86\Debug\ConversionOperators.pdb
+C:\Users\Administrator\Desktop\ConversionOperators\ConversionOperators\obj\x86\Debug\ConversionOperators.exe
+C:\Users\Administrator\Desktop\ConversionOperators\ConversionOperators\obj\x86\Debug\ConversionOperators.pdb
+C:\Users\Administrator\Desktop\ConversionOperators\ConversionOperators\bin\Debug\ConversionOperators.exe
+C:\Users\Administrator\Desktop\ConversionOperators\ConversionOperators\bin\Debug\ConversionOperators.pdb
+C:\Users\Administrator\Desktop\ConversionOperators\ConversionOperators\obj\x86\Debug\ResolveAssemblyReference.cache

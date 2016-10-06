@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PInvoke">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Peter Thorsteinson\Desktop\DotNetExamples\PInvoke\PInvoke.sln">
+</Property><Property Name="Date" Value="Thursday, February 01, 2007">
+</Property><Property Name="Time" Value="3:00 AM">
+</Property></Properties><Event ErrorLevel="0" Project="PInvoke" Source="PInvoke.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PInvoke" Source="PInvoke.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PInvoke.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PInvoke.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PInvoke" Source="PInvoke.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

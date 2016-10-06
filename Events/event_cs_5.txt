@@ -1,0 +1,41 @@
+using System;
+
+public delegate void AlarmEventHandler(object sender, AlarmEventArgs e);
+
+class Foo
+{
+    //        AlarmEventHandler eventDelegate;
+    public event AlarmEventHandler Alarm; //!!!!!!!
+    //        public void RegisterCallBack(AlarmEventHandler eventDelegate)
+    //        {
+    //            this.eventDelegate = eventDelegate;
+    //        }
+
+    public void TestIt()
+    {
+        //eventDelegate(this, new AlarmEventArgs());
+        Alarm.Invoke(this, new AlarmEventArgs()); //!!!!!!!
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Foo foo = new Foo();
+
+        //foo.RegisterCallBack(AlarmEventHandler);
+        foo.Alarm += new AlarmEventHandler(AlarmEventHandler);
+
+        foo.TestIt();
+    }
+
+    public static void AlarmEventHandler(object sender, AlarmEventArgs e)
+    {
+        Console.WriteLine(sender.ToString() + " " + e.ToString());
+    }
+}
+
+public class AlarmEventArgs : EventArgs
+{
+}

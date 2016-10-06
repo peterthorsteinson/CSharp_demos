@@ -1,0 +1,4 @@
+Hello
+This is my text file
+Have a good day
+I am writing this text to a file ...

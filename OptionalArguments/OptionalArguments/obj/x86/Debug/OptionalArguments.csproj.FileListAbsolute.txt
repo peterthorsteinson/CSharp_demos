@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\OptionalArguments\OptionalArguments\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\OptionalArguments\OptionalArguments\obj\x86\Debug\OptionalArguments.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OptionalArguments\OptionalArguments\obj\x86\Debug\OptionalArguments.pdb
+C:\Users\Administrator\Desktop\OptionalArguments\OptionalArguments\obj\x86\Debug\OptionalArguments.exe
+C:\Users\Administrator\Desktop\OptionalArguments\OptionalArguments\obj\x86\Debug\OptionalArguments.pdb
+C:\Users\Administrator\Desktop\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.exe
+C:\Users\Administrator\Desktop\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.pdb
+C:\Users\Administrator\Desktop\OptionalArguments\OptionalArguments\obj\x86\Debug\ResolveAssemblyReference.cache

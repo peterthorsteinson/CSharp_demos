@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\PInvoke\bin\Debug\PInvoke.exe.config
+C:\Users\Administrator\Desktop\PInvoke\obj\Debug\PInvoke.exe
+C:\Users\Administrator\Desktop\PInvoke\obj\Debug\PInvoke.pdb
+C:\Users\Administrator\Desktop\PInvoke\bin\Debug\PInvoke.exe
+C:\Users\Administrator\Desktop\PInvoke\bin\Debug\PInvoke.pdb
+C:\Users\Administrator\Desktop\PInvoke\obj\Debug\ResolveAssemblyReference.cache

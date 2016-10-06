@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\OperatorOverload\OperatorOverload\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\OperatorOverload\OperatorOverload\obj\x86\Debug\OperatorOverload.exe
+c:\users\administrator\documents\visual studio 2010\Projects\OperatorOverload\OperatorOverload\obj\x86\Debug\OperatorOverload.pdb
+C:\Users\Administrator\Desktop\OperatorOverload\OperatorOverload\obj\x86\Debug\OperatorOverload.exe
+C:\Users\Administrator\Desktop\OperatorOverload\OperatorOverload\obj\x86\Debug\OperatorOverload.pdb
+C:\Users\Administrator\Desktop\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\Administrator\Desktop\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\Administrator\Desktop\OperatorOverload\OperatorOverload\obj\x86\Debug\ResolveAssemblyReference.cache

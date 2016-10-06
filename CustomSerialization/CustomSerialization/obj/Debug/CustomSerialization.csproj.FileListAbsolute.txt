@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\ASP.NET_Demos\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Users\Admin\Desktop\ASP.NET_Demos\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb
+C:\Users\Admin\Desktop\ASP.NET_Demos\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Users\Admin\Desktop\ASP.NET_Demos\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Users\Admin\Desktop\ASP.NET_Demos\CustomSerialization\CustomSerialization\obj\Debug\ResolveAssemblyReference.cache

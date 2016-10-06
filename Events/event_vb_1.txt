@@ -1,0 +1,17 @@
+Imports System
+
+Public Delegate Sub TestDelegate(ByVal message As String)
+
+Module Module1
+    Sub Main()
+        'call method the normal way
+        MyMethod("method called the normal way")
+
+        'call method via delegate
+        Dim testDelegate As TestDelegate = AddressOf MyMethod
+        testDelegate("method called via delegate")
+    End Sub
+    Public Sub MyMethod(ByVal message As String)
+        Console.WriteLine(message)
+    End Sub
+End Module
